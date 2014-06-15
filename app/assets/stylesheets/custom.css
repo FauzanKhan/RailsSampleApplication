@@ -1,0 +1,59 @@
+.container{
+	width:780px
+}
+body{
+	background:#CFF;
+}
+header{
+	padding:20px;
+}
+header img{
+	padding:1em;
+	background:white;
+}
+section{
+	margin-top:1em;
+	font-size:120%;
+	padding:20px;
+	background:#FFF;
+}
+a{
+	color:#09c;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	color:#069;
+}
+a:visited{
+	color:#069;
+}
+nav{
+	float:right;
+	background:#FFF;
+	padding:20px;
+	white-space: nowrap;
+}
+nav ul{
+	margin:0;
+	padding:0;
+}
+nav ul li{
+	list-style: none;
+	display:inline-block;
+	padding:0em 0em;
+}
+nav ul li a{
+	padding: 0 15px;
+	font-weight:bold;
+}
+.signup_button{
+	width:200px;
+	height:100px;
+	font-size: 150%;
+	color:white;
+	background:green;
+	display:block;
+	margin-right: auto;
+	margin-left:auto;
+}
