@@ -57,3 +57,24 @@ nav ul li a{
 	margin-right: auto;
 	margin-left:auto;
 }
+footer{
+	background :white;
+	display:block;
+	width:750px;
+	margin-top:20px;
+	text-align:center;
+}
+footer ul{
+	list-style: none;
+	margin-left: auto;
+	margin-right: auto ;
+}
+footer ul li{
+	display:inline;
+}
+footer ul li a{
+	/*font-size:150%;*/
+	font-weight:bold;
+	padding:0px 15px;
+}
+
