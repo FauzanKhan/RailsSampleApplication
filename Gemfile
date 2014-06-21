@@ -29,9 +29,9 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # Use unicorn as the app server
 # gem 'unicorn'
 
-# Use Capistrano for deployment
+# Use Capistrano for deployment 
  gem 'rspec-rails', group: :development
-
+ gem 'annotate', group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
