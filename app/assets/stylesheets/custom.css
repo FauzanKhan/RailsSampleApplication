@@ -84,4 +84,21 @@ footer ul li a{
 	font-weight:bold;
 	padding:0px 15px;
 }
-
+table.profile{
+	width : 100%;
+	margin-bottom : 0px;
+}
+td.main{
+	width : 70%;
+	padding : 1em;
+}
+td.sidebar{
+	width:30%;
+	padding: 1em;
+	vertical-align: top;
+	background: #ffe;
+}
+.profile img.gravatar{
+	border : 1px solid #CCC;
+	margin: -15px;
+}
